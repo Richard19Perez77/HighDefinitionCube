@@ -79,6 +79,8 @@ app/src/main/java/com/rick/highdefinitioncube/
     CanvasCubeScene.kt    Compose Canvas cube
 ```
 
+https://youtube.com/shorts/PRyFFdTmKhk
+
 ## Blog notes
 
 Worth writing:
