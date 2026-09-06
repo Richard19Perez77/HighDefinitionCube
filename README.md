@@ -6,6 +6,14 @@ The cube is the mascot. The product is the **constraint layer**: renderer, quali
 
 This APK is also the live companion for a blog series on making graphics with AI, then scaling them to a real device.
 
+<div align="center">
+
+[![Watch the High Definition Cube demo](https://img.youtube.com/vi/PRyFFdTmKhk/hqdefault.jpg)](https://www.youtube.com/shorts/PRyFFdTmKhk)
+
+[Watch the demo on YouTube](https://www.youtube.com/shorts/PRyFFdTmKhk)
+
+</div>
+
 ## The 60-second version
 
 Anyone can draw a cube. This app asks a harder question: **how much quality can this phone hold after it is warm?**
@@ -78,8 +86,6 @@ app/src/main/java/com/rick/highdefinitioncube/
     FilamentCubeScene.kt  SceneView / Filament cube
     CanvasCubeScene.kt    Compose Canvas cube
 ```
-
-https://youtube.com/shorts/PRyFFdTmKhk
 
 ## Blog notes
 
