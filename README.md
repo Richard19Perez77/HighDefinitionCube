@@ -98,6 +98,8 @@ Worth writing:
 
 Not in this build: AR, Unity/Godot-as-a-library, on-device diffusion, Vulkan from scratch.
 
+https://github.com/user-attachments/assets/266b06a5-2216-41fc-86c0-1253cc5c1ece
+
 ## License
 
 Personal demo and blog companion. SceneView is Apache 2.0.
