@@ -8,7 +8,7 @@ This APK is also the live companion for a blog series on making graphics with AI
 
 <div align="center">
 
-[![Watch the High Definition Cube demo](https://img.youtube.com/vi/PRyFFdTmKhk/hqdefault.jpg)](https://www.youtube.com/shorts/PRyFFdTmKhk)
+<a href="https://www.youtube.com/shorts/PRyFFdTmKhk"><img src="https://img.youtube.com/vi/PRyFFdTmKhk/hqdefault.jpg" alt="Watch the High Definition Cube demo" width="220"/></a>
 
 [Watch the demo on YouTube](https://www.youtube.com/shorts/PRyFFdTmKhk)
 
