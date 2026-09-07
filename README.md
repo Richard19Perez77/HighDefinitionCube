@@ -30,6 +30,8 @@ Open the project in Android Studio and run `app` on a phone. The interesting tes
 | Setting | Value |
 |---|---|
 | `minSdk` / `targetSdk` | 24 / 37 |
+| App bytecode (`compileOptions` / Kotlin `jvmTarget`) | 17 |
+| JDK that runs Gradle | 25 |
 | SceneView / Filament | 4.32.0 |
 | Kotlin | 2.4.10 |
 | AGP | 9.4.0 |
